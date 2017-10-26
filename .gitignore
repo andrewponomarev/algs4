@@ -1,0 +1,24 @@
+### Java ###\
+*.class
+
+### Idea files ###
+.metadata
+.classpath
+.project
+.settings
+target/
+test-output/
+
+*.log
+*.xlsx
+*.docs
+
+.idea
+*.iml
+
+.DS_Store
+
+*.idea/
+
+*.zip
+*.png
